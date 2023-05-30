@@ -25,8 +25,8 @@ El texto alternativo es una descripción de la imagen que se mostrará si la ima
 ![Logo de Insight](images/Insight-Logo.png)
 
 ```markdown
-!![Logo de Insight](images/Insight-Logo.png)
 ![Logo de Insight]()
+![Logo de Insight](images/Insight-Logo.png)
 ```
 
 --------------
