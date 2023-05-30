@@ -19,4 +19,4 @@ Markdown se utiliza en diversas aplicaciones y plataformas en línea, como por e
 - Slack: para dar formato a los mensajes.
 
 
-[Volver](README.md)
+[Volver](Home)

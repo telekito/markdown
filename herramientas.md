@@ -29,4 +29,4 @@ Hay muchos servicios disponibles que te permiten hospedar tus documentos de Mark
 
 Estos servicios te permiten hospedar tus documentos de Markdown de forma gratuita y compartirlos con otros usuarios. También ofrecen funcionalidades adicionales, como seguimiento de cambios y colaboración en línea.
 
-[Volver](README.md)
+[Volver](Home)
