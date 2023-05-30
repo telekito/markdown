@@ -20,13 +20,13 @@ En Markdown, puedes agregar imágenes a tus documentos utilizando el siguiente f
 
 El texto alternativo es una descripción de la imagen que se mostrará si la imagen no se puede cargar por algún motivo. Por ejemplo:
 
-![Logo de google]()
+![Logo de Insight]()
 
-![Logo de google](https://www.google.com/url?sa=i&url=https%3A%2F%2Frotulosmatesanz.com%2Fblog%2Fhistoria-del-logo-de-google%2F&psig=AOvVaw19C4moWrgKvFl2rXZFl7js&ust=1685555503430000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjL-9nNnf8CFQAAAAAdAAAAABAE)
+![Logo de Insight](images/Insight-Logo.png)
 
 ```markdown
-![Logo de google](https://www.google.com/url?sa=i&url=https%3A%2F%2Frotulosmatesanz.com%2Fblog%2Fhistoria-del-logo-de-google%2F&psig=AOvVaw19C4moWrgKvFl2rXZFl7js&ust=1685555503430000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjL-9nNnf8CFQAAAAAdAAAAABAE)
-![Logo de google]()
+!![Logo de Insight](images/Insight-Logo.png)
+![Logo de Insight]()
 ```
 
 --------------
