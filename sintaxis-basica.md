@@ -29,7 +29,7 @@ Los encabezados en Markdown se crean utilizando el símbolo #, seguido de un esp
 ## Estilos de texto
 Para dar formato al texto en Markdown, puedes utilizar los siguientes símbolos:
 
-- * para cursiva: *Texto en cursiva*  
+- \* para cursiva: *Texto en cursiva*  
 - ** para negrita: **Texto en negrita**  
 - ~~ para tachado: ~~Texto tachado~~  
 
